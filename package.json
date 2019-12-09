@@ -13,6 +13,6 @@
   "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.1"
+    "chalk": "^3.0.0"
   }
 }
