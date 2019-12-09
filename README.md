@@ -1,6 +1,9 @@
 This is HECKA rad.
 
 # Usage
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cutenode/hecka-rad.svg)](https://greenkeeper.io/)
+
 Via npx:
 ```
 npx hecka-rad
